@@ -1,0 +1,15 @@
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+E:\Arquivos Marcela\Projetos\C#\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
