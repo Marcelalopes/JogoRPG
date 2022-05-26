@@ -1,7 +1,7 @@
 # Introdução a Orientação a Objetos
 abstraindo um jogo de RPG usando OO com C# - Desafio de Projeto DIO
 ## Final Fantasy
-![Menu Final Fantasy](docs\final-fantasy.png)
+![Menu Final Fantasy](..\docs\final-fantasy.png)
 
 ## Pré Requisitos
 * VS Code
