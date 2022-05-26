@@ -13,7 +13,10 @@ namespace JogoRPG.src.Entities
         }
 
         public string Attack(int Bonus){
-            return this.Name1 + " lançou magia com o bonus de ataque de "+Bonus;
+            if (Bonus > 6)
+                return this.Name1 + " lançou uma super magia com o bonus de ataque de "+Bonus;
+            else
+                return this.Name1 + " lançou uma magia de força fraca com um de ataque de "+Bonus;
         }
     }
 }
