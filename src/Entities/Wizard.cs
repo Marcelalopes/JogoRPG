@@ -2,21 +2,16 @@ namespace JogoRPG.src.Entities
 {
     public class Wizard : Hero
     {
-        public Wizard(string name, int level, string type)
+        public Wizard(string name, int level, string type, int hearth, int power)
         {
             this.Name1 = name;
             this.Level1 = level;
             this.Type1 = type;
+            this.Hearth1 = hearth;
+            this.PowerAttack1 = power;
         }
-        public override string Attack(){
-            return this.Name1 + " lançou magia";
-        }
-
-        public string Attack(int Bonus){
-            if (Bonus > 6)
-                return this.Name1 + " lançou uma super magia com o bonus de ataque de "+Bonus;
-            else
-                return this.Name1 + " lançou uma magia de força fraca com um de ataque de "+Bonus;
+        public override string Attack(int power){
+            return this.Name1 + " lançou magia e tirou "+power+" vida(s) do seu oponente";
         }
     }
 }
